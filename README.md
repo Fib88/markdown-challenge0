@@ -2,7 +2,7 @@
 
 # Frank Nsuki
 
-*Great things never come from comfort zones*
+*Habit is either the best of servants or the worst of masters*
 
 ![](https://raw.githubusercontent.com/Fib88/markdown-challenge/master/Frank_picture.jpg)
 
@@ -10,9 +10,9 @@
 
 | About me | Info |
 | ------------- |:-------------:| 
-| Birthday     | 14/07 |  
+| Birthday     | 14/07/1988 |  
 | Favorite Food      | Salmon     | 
-| Pineapple on pizza | sure thing | 
+| Pineapple on pizza | Is there any other way? | 
 
 #### Hobbies:
 
@@ -43,10 +43,6 @@ Teacher thought my & my sister copied homework because we made exactly the same 
 
 
 
-
-
-
-To be continued
 
 
 
